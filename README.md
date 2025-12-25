@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Maxwell
 
-<!--
-**maxuel-sierra-dev/maxuel-sierra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in software development and backend  
+🚀 Learning and building projects with:
 
-Here are some ideas to get you started:
+- C#
+- Java
+- C++
+- MySQL
+- Angular (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently focused on improving my programming logic and clean code.
+
