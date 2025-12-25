@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Maxwell
 
 🎓 Computer Science student  
+🎓 Software Development Technologist
 💻 Interested in software development and backend  
 🚀 Learning and building projects with:
 
