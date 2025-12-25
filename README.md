@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maxwell
+# 👋 Hi, I'm Maxuel Sierra
 
 🎓 Computer Science student  
 🎓 Software Development Technologist
