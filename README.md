@@ -9,7 +9,7 @@
 - Java
 - C++
 - MySQL
-- Angular (basic)
+- Angular 
 
 📌 Currently focused on improving my programming logic and clean code.
 
